@@ -2,7 +2,7 @@
 
 ## Uptobox/Uptostream downloader without waiting time.
 
-## ⚠️ This repository is deprecate. For more information, see the [issue concerning problems](https://github.com/spel987/UptoDL/issues/2).
+## ⚠️ This repository is deprecate. Uptobox no longer offers its services.
 
 <h1 align="center">
 <a href="https://github.com/spel987/UptoDL"><img src="https://i.imgur.com/aTmDLFW.png"></a>

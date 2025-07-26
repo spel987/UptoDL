@@ -5,7 +5,7 @@
 ## ⚠️ This repository is deprecate. Uptobox no longer offers its services.
 
 <h1 align="center">
-<a href="https://github.com/spel987/UptoDL"><img src="https://i.imgur.com/aTmDLFW.png"></a>
+<a href="https://github.com/spel987/UptoDL"><img src="https://i.imgur.com/xHrtpw9.png"></a>
 </h1>
 
 <h1 align="center">
